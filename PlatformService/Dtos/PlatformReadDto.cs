@@ -2,7 +2,7 @@
 
 namespace PlatformService.Dtos
 {
-    public class PlatoformReadDto
+    public class PlatformReadDto
     {
         public int Id { get; set; }
 
